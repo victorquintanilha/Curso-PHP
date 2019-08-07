@@ -1,4 +1,4 @@
-# Curso-PHP
+# CursoPHP
 Códigos desenvolvidos no curso de PHP do professor Gustavo Guanabara (Curso em Video)
 
 Certificado:
